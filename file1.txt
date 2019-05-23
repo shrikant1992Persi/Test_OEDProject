@@ -1,6 +1,9 @@
 class MyClass{
 	main(){
 	
-		syso("Hello Word ")
+		syso("Hello Word !!!!");
+	}
+	myMethod(){
+		syso("My Bussiness Logic!!!!")
 	}
 }
