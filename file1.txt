@@ -2,6 +2,7 @@ class MyClass{
 	main(){
 	
 		syso("Hello Word !!!!");
+ 		myMethod();
 	}
 	static myMethod(){
 		syso("My Bussiness Logic!!!!")
