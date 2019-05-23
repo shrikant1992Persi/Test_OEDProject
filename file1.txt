@@ -4,7 +4,7 @@ class MyClass{
 		syso("Hello Word !!!!");
  		myMethod();
 	}
-	static myMethod(){
+	myMethod(){
 		syso("My Bussiness Logic!!!!")
 	}
 }
