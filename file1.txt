@@ -1,0 +1,6 @@
+class MyClass{
+	main(){
+	
+		syso("Hello Word ")
+	}
+}
