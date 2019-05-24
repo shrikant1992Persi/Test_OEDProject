@@ -5,9 +5,19 @@ class MyClass{
  		myMethod();
 	}
 	public ststic void main(String main[]){
+<<<<<<< HEAD
 	//ToDO
+=======
+	myclass obj = new MyClass();
+		obj.myMethod();
+>>>>>>> bug456
 	}
-	myMethod(){
+	void myMethod(){
 		system.out.println("My Bussiness Logic!!!!")
 	}
+<<<<<<< HEAD
 }
+=======
+	
+}
+>>>>>>> bug456
