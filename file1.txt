@@ -16,6 +16,8 @@ class MyClass{
 	void myMethod(){
 		system.out.println("My Bussiness Logic!!!!");
 		//change one in main
+
+		///SOlution of my method 
 	}
 	displayDate(){
 		let date - new Date();
