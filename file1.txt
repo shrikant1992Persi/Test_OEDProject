@@ -1,11 +1,11 @@
 class MyClass{
-	main(){
+	static main(){
 	
 		system.out.println("Hello Word !!!!");
  		myMethod();
 	}
 	public ststic void main(String main[]){
-	
+	//ToDO
 	}
 	myMethod(){
 		system.out.println("My Bussiness Logic!!!!")
