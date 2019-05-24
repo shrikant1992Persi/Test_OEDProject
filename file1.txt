@@ -1,23 +1,19 @@
 class MyClass{
 	static main(){
 	
-		system.out.println("Hello Word !!!!");
+		System.Out.println("I have implemted new idea!!");
  		myMethod();
 	}
 	public ststic void main(String main[]){
-<<<<<<< HEAD
-	//ToDO
-=======
+
 	myclass obj = new MyClass();
 		obj.myMethod();
->>>>>>> bug456
 	}
 	void myMethod(){
-		system.out.println("My Bussiness Logic!!!!")
+		system.out.println("My Bussiness Logic!!!!");
+		//change one in main
 	}
-<<<<<<< HEAD
-}
-=======
+
 	
 }
->>>>>>> bug456
+
