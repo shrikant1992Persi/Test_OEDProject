@@ -5,9 +5,11 @@ class MyClass{
  		myMethod();
 	}
 	public ststic void main(String main[]){
-	
+	myclass obj = new MyClass();
+		obj.myMethod();
 	}
-	myMethod(){
+	void myMethod(){
 		system.out.println("My Bussiness Logic!!!!")
 	}
+	
 }
