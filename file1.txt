@@ -13,6 +13,10 @@ class MyClass{
 		system.out.println("My Bussiness Logic!!!!");
 		//change one in main
 	}
+	displayDate(){
+		let date - new Date();
+			syso(date);
+	}
 
 	
 }
