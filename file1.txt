@@ -9,6 +9,10 @@ class MyClass{
 	myclass obj = new MyClass();
 		obj.myMethod();
 	}
+	
+	init(){
+		syso('this is initial state!')
+	}
 	void myMethod(){
 		system.out.println("My Bussiness Logic!!!!");
 		//change one in main
