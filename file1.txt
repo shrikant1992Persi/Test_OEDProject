@@ -4,6 +4,9 @@ class MyClass{
 		syso("Hello Word !!!!");
  		myMethod();
 	}
+	public ststic void main(String main[]){
+	
+	}
 	myMethod(){
 		syso("My Bussiness Logic!!!!")
 	}
