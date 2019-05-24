@@ -1,13 +1,13 @@
 class MyClass{
 	main(){
 	
-		syso("Hello Word !!!!");
+		system.out.println("Hello Word !!!!");
  		myMethod();
 	}
 	public ststic void main(String main[]){
 	
 	}
 	myMethod(){
-		syso("My Bussiness Logic!!!!")
+		system.out.println("My Bussiness Logic!!!!")
 	}
 }
